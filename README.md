@@ -1,7 +1,7 @@
 # 2019_os_hw2
 HW2: Multi-threaded word count
 
-Due date: Oct. 19th
+**Due date: Oct. 19th**
 
 The second homework is about multi-thread programming with some synchronization.
 Thread is a unit of execution; a thread has execution context, 
@@ -35,6 +35,7 @@ The goals from HW2 are
 Basically, count the number of each alphabet character in the line.
 char_stat.c can be a hint for gathering statistics.
 At the end of execution, you should print out the statistics of the entire text.
+Beat the fastest execution, maximizing the concurrency!
 
 To run a program, you may give filename to read and # of producers and # of consumers.
 In case of single producer, 2 consumers, reading 'sample file'; you may need to execute your program by
