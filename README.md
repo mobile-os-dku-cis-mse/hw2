@@ -1,4 +1,4 @@
-# 2019_os_hw2
+# os_hw2
 HW2: Multi-threaded word count
 
 **Due date: Oct. 19th**
